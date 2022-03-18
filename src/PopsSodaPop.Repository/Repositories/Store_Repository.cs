@@ -97,4 +97,8 @@ using System.Threading.Tasks;
             }
         }
 
+    public object GetEmployeeByID(int userInputEmployeeID)
+    {
+        throw new NotImplementedException();
     }
+}
